@@ -1,0 +1,34 @@
+ .navbar-nav a{
+    font-size:18px;
+ }
+
+ .navy{
+    position:fixed;
+    z-index:100;
+    width:1700px;
+    margin-bottom:30px;
+    height:15px;
+
+ }
+
+ .card-img{
+    margin-top:75px;
+ }
+
+.navbar-brand{
+   position:relative;
+   right:180px;
+
+}
+
+#hello{
+   margin:0 auto;
+}
+
+.hello1:hover{
+   background-color:gray;
+}
+
+.nav-item{
+   text-decoration: none;
+}
